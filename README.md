@@ -1,1 +1,1 @@
-# fundamentos
+Este repositorio serve para guardar anotaçãoes dos meus estudos
